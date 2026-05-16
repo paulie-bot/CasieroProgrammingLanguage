@@ -1,0 +1,51 @@
+EXAMPLE COMMAND:
+(1) object create list List
+(2) object remove List
+(3) object modify list List append a
+(4) object modify list List remove a
+(5) object return list List 0
+
+(1)
+This command creates a list object called "List",  to simplify,  we will break it down word for word.
+
+"object" is the command to start using objects
+"create" is the keyword to create a new object
+"list" is the type of object to create
+"List" is the name of the object
+
+(2)
+This command removes an object called "List",  to simplify,  we will break it down word for word.
+
+"object" is the command to start using objects
+"remove" is the keyword to delete an object
+"List" is the name of the object to delete
+
+(3)
+This command modifies the list List and adds an A to the list.  to simplify,  we will break it down word for word.
+
+"object" is the command to start using objects
+"modify" is the keyword to modify an object
+"list" is the type of object to modify
+"List" is the name of the object to modify
+"append" is the command for lists to append something to its contents
+"a" is the value to append the list by
+
+
+(4)
+This command modifies the list List and removes an A from the list.  to simplify,  we will break it down word for word.
+
+"object" is the command to start using objects
+"modify" is the keyword to modify an object
+"list" is the type of object to modify
+"List" is the name of the object to modify
+"remove" is the command for lists to remove something from its contents
+"a" is the value to remove from the list
+
+(5)
+This command modifies the list List and removes an A from the list.  to simplify,  we will break it down word for word.
+
+"object" is the command to start using objects
+"return" is the keyword to return one of the values of an object
+"list" is the type of object to modify
+"List" is the name of the object to modify
+"0" is the position of the list to return
